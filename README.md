@@ -1,2 +1,3 @@
 # PIREWorkshop2019
-Code from the 2019 Philippines PIRE Workshop
+
+This is Michaela Shope's remote repository containing scripts, data, and other materials created in the 2019 Philippines PIRE Workshop
